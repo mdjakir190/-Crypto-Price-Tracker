@@ -1,4 +1,5 @@
-444gttt66ttff5fyyftttimport requests
+
+import requests
 import pandas as pd
 
 def fetch_crypto_data():
