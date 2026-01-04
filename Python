@@ -1,4 +1,4 @@
-ftttimport requests
+fyyftttimport requests
 import pandas as pd
 
 def fetch_crypto_data():
