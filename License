@@ -1,4 +1,5 @@
-gghghhgjyggbhbggvvgbgthhhvbgghybhj6hgghhvyyhhvghg5hggggbbgthuhggvgggvhgvhvvghbghyhyhhfgvgggfvvggvggggyghyuyhvvggtvvvvyjy## 🚀 GitHub par upload kaise karein?
+
+## 🚀 GitHub par upload kaise karein?
 1. GitHub par naya repository banayein (`crypto-price-tracker`).
 2. Apne terminal/CMD mein ye commands chalayein:
    ```bash
@@ -8,5 +9,3 @@ gghghhgjyggbhbggvvgbgthhhvbgghybhj6hgghhvyyhhvghg5hggggbbgthuhggvgggvhgvhvvghbgh
    git branch -M main
    git remote add origin https://github.com/YOUR_USERNAME/REPO_NAME.git
    git push -u origin main
-h
-h
